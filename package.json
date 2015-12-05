@@ -39,8 +39,8 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "handlebars": "^3.0.1",
-    "handlebars-helpers": "^0.5.8"
+    "handlebars": "^4.0",
+    "handlebars-helpers": "git+https://github.com/assemble/handlebars-helpers#v0.6.0"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
